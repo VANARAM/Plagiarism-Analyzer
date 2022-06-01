@@ -1,0 +1,5 @@
+Data mining, also known as knowledge discovery in data (KDD), is the process of
+uncovering patterns and other valuable information from large data sets. Given 
+the evolution of data warehousing technology and the growth of big data, adoption 
+of data mining techniques has rapidly accelerated over the last couple of decades, 
+assisting companies by transforming their raw data into useful knowledge.

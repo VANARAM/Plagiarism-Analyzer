@@ -1,0 +1,4 @@
+data mining techniques has rapidly accelerated over the last couple of decades, 
+assisting companies by transforming their raw data into useful knowledge. However, 
+despite the fact that that technology continuously evolves to handle data at a 
+large-scale, leaders still face challenges with scalability and automation.
