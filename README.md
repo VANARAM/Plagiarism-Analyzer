@@ -1,5 +1,7 @@
 # Plagiarism-Analyzer
-In this project, I am creating a website similar to Moodle. Teachers can upload assignments, and students can submit their assignments. The teachers also have the privilege to check for plagiarism in those assignments. Admin login details: Username - admin, Password - Test@123.
+In my latest project, I created a website that functions similarly to Moodle. The platform allows teachers to upload assignments for their students to complete and submit. Additionally, teachers have the ability to check for plagiarism in the submitted assignments. The website is designed to facilitate seamless communication between teachers and students, making the learning process more efficient and convenient for everyone involved.
+
+Admin login details: Username - admin, Password - Test@123.
 Admin Login 
 username:- admin
 password:- Test@123
